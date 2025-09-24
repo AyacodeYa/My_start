@@ -5,7 +5,7 @@ fff
 On Ubuntu after running ssh-add id_rsa I received the error could not open a connection to your authentication agent If you ever run into this . Run 1) exec ssh-agent bash 2) ssh-add <your_key> .) video –
 MattJamison
  Nov 24, 2021 at 19:06
-
+ 
 maya
 
 sfaf
@@ -13,3 +13,8 @@ sfaf
 今天周一
 
 jintianzhouyi
+
+
+
+
+分割线 
